@@ -15,7 +15,7 @@ Engine por decidir.
 ----
 Protagonista femenina: Cougar Fury (Secretary Fury)
 Argumento dia de Furia, despido por una secretaria mas joven.
-Arte: Tonos grises con spalshes tipo SinCity y conversaciones en viñetas.
+Arte: Tonos grises con splashes tipo SinCity y conversaciones en viñetas.
 
 Github 
 
